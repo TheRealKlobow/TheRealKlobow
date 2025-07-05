@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Noah – aka TheRealKlobow
+<h2 align="left"># 👋 Hi, I'm Noah – aka TheRealKlobow
 
 💻 Self-taught developer and currently in training as an agricultural machinery mechanic.
 
@@ -23,6 +23,15 @@ My dream? **To own a Porsche 911 GT3 RS.** Every line of code gets me one step c
 
 ---
 
+## 🔧 Skills
+
+`JavaScript` `Node.js` `Express.js`  
+`C#` `CEFSharp` `Ookii.Dialogs`  
+`HTML/CSS` `Leaflet.js` `SQLite`  
+`Discord.js` `Shell scripting` `Git`  
+
+---
+
 ## 👀 Looking for...
 
 - Small freelance projects (Discord bots, automation tools, admin panels)
@@ -42,7 +51,9 @@ If you’ve got a cool project – or want help building something – feel free
 ---
 
 Thanks for stopping by – and remember:  
-> "If you’re not building your dream, someone will hire you to build theirs."
+> "If you’re not building your dream, someone will hire you to build theirs."</h2>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheRealKlobow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
