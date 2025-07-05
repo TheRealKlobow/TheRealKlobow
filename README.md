@@ -3,7 +3,6 @@
 💻 Self-taught developer and currently in training as an agricultural machinery mechanic.
 
 I build tools, bots and admin panels for fun – and one day, I want to turn it into a business.  
-My dream? **To own a Porsche 911 GT3 RS.** Every line of code gets me one step closer. 🚀
 
 ---
 
