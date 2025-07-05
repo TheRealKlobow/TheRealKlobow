@@ -43,7 +43,7 @@ I build tools, bots and admin panels for fun – and one day, I want to turn it 
 
 If you’ve got a cool project – or want help building something – feel free to reach out.
 
-📩 Discord: **klobow.dev**  
+📩 Discord: **klobow**  
 📍 Denmark  
 🌐 More coming soon...
 
