@@ -1,53 +1,93 @@
 # 👋 Hi, I'm Noah – aka TheRealKlobow
 
-💻 Self-taught developer and currently in training as an agricultural machinery mechanic.
+Founder & developer behind **KLB Groups**.  
+Self-taught full-stack developer from Denmark, currently in vocational training – building real production systems alongside.
 
-I build tools, bots and admin panels for fun – and one day, I want to turn it into a business.  
-
----
-
-## 🚧 Projects I'm working on
-
-- **❄️ Snow Clearing Admin Panel**  
-  Web-based tracking system with Leaflet.js and Node.js backend. Built for local use and management.
-
-- **🎣 Discord Fishing Database Bot**  
-  Built with image upload, weight/length registration, and auto-embeds. Custom-built for Danish sport fishing communities.
-
-- **🚗 GTA V Mod Installer**  
-  Custom C# installer with an HTML/CSS UI (via CEFSharp), made to install modpacks with 1 click – clean and user-friendly.
-
-- **🛠️ Utility Scripts & Tools**  
-  I also build smaller projects for fun or custom use – always with a clean UI and focused functionality.
+I focus on **modular API systems, admin platforms, and scalable web products**.  
+Long-term goal: build and grow sustainable software products under KLB Groups.
 
 ---
 
-## 🔧 Skills
+## 🚀 KLB Groups
 
-`JavaScript` `Node.js` `Express.js`  
-`C#` `CEFSharp` `Ookii.Dialogs`  
-`HTML/CSS` `Leaflet.js` `SQLite`  
-`Discord.js` `Shell scripting` `Git`  
+🌐 https://klbgroups.com  
+
+KLB Groups is my umbrella brand for building and operating structured software platforms, APIs, and internal tools.
+
+Core focus areas:
+- Modular backend systems
+- Centralized APIs
+- Admin & control panels
+- Scalable architecture from day one
 
 ---
 
-## 👀 Looking for...
+## 🧠 Core Platforms
 
-- Small freelance projects (Discord bots, automation tools, admin panels)
-- Collabs with other devs or creators
-- Opportunities to learn more about real-world software building
+### 🧩 KLB API (V2)
+A modular API system acting as the backbone across products.
+
+- Versioned API architecture
+- Module-based structure (core + feature modules)
+- Auth, roles, logging, health checks
+- Designed for long-term scaling and maintenance
+- Used across multiple internal products
+
+The API is built to be boring, predictable, and reliable – exactly how infrastructure should be.
+
+---
+
+### 🎓 TeacherTool
+🌐 https://teachertool.dk  
+
+A platform built for teachers and schools.
+
+- Admin panels for school management
+- User & role handling
+- Class and structure-based tooling
+- Focus on usability and real classroom needs
+- Actively developed and iterated
+
+TeacherTool is a real product, not a demo – built with feedback, structure, and long-term vision.
+
+---
+
+## 🛠️ What I actually work with
+
+**Backend & Infrastructure**
+- PHP (modular API architecture)
+- Node.js (services, hubs, workers)
+- Auth, sessions, tokens
+- Health checks, logging, backups
+
+**Frontend & Admin Panels**
+- Clean, functional admin UIs
+- Focus on clarity over flashy design
+- Internal tools that scale with complexity
+
+**Ops & Platform Thinking**
+- Cloudflare (DNS, tunnels, access)
+- Environment separation (dev / prod)
+- Backups & recovery (learned the hard way 😅)
+- Structure before features
+
+---
+
+## 👀 Looking for
+
+- Serious collaborations
+- Platform-level freelance work
+- Feedback from people building real systems
+- Long-term opportunities around software products
+
+Not interested in quick scripts or throwaway projects.
 
 ---
 
 ## 📫 Contact
 
-If you’ve got a cool project – or want help building something – feel free to reach out.
+- Discord: **klobow**
+- Location: Denmark
+- Brand: https://klbgroups.com
 
-📩 Discord: **klobow**  
-📍 Denmark  
-🌐 More coming soon...
-
----
-
-Thanks for stopping by – and remember:  
-> "If you’re not building your dream, someone will hire you to build theirs."
+More documentation and open material coming soon.
