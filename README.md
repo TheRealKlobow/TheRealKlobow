@@ -1,93 +1,121 @@
-# 👋 Hi, I'm Noah – aka TheRealKlobow
+# 👋 Noah Thomsen
 
-Founder & developer behind **KLB Groups**.  
-Self-taught full-stack developer from Denmark, currently in vocational training – building real production systems alongside.
-
-I focus on **modular API systems, admin platforms, and scalable web products**.  
-Long-term goal: build and grow sustainable software products under KLB Groups.
+Founder - KLB Groups  
+🛠 Systems builder  
+🧠 Infrastructure focused  
+🇩🇰 Denmark  
 
 ---
 
-## 🚀 KLB Groups
+## 🚀 What I Do
+
+I build structured operating environments and controlled deployment systems.
+
+Not trend-based SaaS.  
+Not frontend clones.  
+Real systems that boot, validate, and run.
+
+---
+
+## 🏢 KLB Groups
 
 🌐 https://klbgroups.com  
 
-KLB Groups is my umbrella brand for building and operating structured software platforms, APIs, and internal tools.
+Umbrella for long-term technical systems and infrastructure projects.
 
-Core focus areas:
-- Modular backend systems
-- Centralized APIs
-- Admin & control panels
-- Scalable architecture from day one
+Core principles:
+- 🧱 Own the stack
+- 🔒 Control the environment
+- ✅ Validate before release
+- 📦 Ship stable builds
+- 📈 Scale with structure
 
 ---
 
-## 🧠 Core Platforms
+## 🧩 Active Systems
 
-### 🧩 KLB API (V2)
-A modular API system acting as the backbone across products.
+### 🐾 ClawOS
 
-- Versioned API architecture
-- Module-based structure (core + feature modules)
-- Auth, roles, logging, health checks
-- Designed for long-term scaling and maintenance
-- Used across multiple internal products
+ClawOS is a prebuilt ARM-based operating system designed to run OpenClaw with minimal setup.
 
-The API is built to be boring, predictable, and reliable – exactly how infrastructure should be.
+Instead of manually installing Linux, enabling SSH, installing Node, fixing permissions and services - you just flash and boot.
+
+ClawOS includes:
+
+- 🔐 SSH enabled on first boot
+- 👤 Preconfigured sudo-capable system user
+- 🟢 Node 22+ enforced at build time
+- 🤖 OpenClaw CLI pre-installed and validated
+- 🧪 Service validation before packaging
+- 🔁 CI-controlled image releases
+- 📀 Deterministic ARM image builds
+
+Target hardware:
+- 🍓 Raspberry Pi
+- 📡 ARM edge devices
+- 🖥 Self-hosted AI nodes
+
+Goal:
+
+Flash → Boot → Connect → Run OpenClaw
+
+No dependency chaos.  
+No broken first boot.  
+No manual setup frustration.
+
+ClawOS removes friction from running https://openclaw.ai/ on ARM hardware.
+
+---
+
+### 🏭 SDK Klargøring System
+
+Structured internal operational workflow platform.
+
+- 🏗 Industry → Series → Model → Category → Jobs
+- 🔐 Role-based access
+- 🖼 Secure image handling
+- 🏢 Used in real company environment
+
+Operational system - not a demo.
 
 ---
 
 ### 🎓 TeacherTool
+
 🌐 https://teachertool.dk  
 
-A platform built for teachers and schools.
+Platform for structured school management.
 
-- Admin panels for school management
-- User & role handling
-- Class and structure-based tooling
-- Focus on usability and real classroom needs
-- Actively developed and iterated
-
-TeacherTool is a real product, not a demo – built with feedback, structure, and long-term vision.
+- 👥 School-based structure
+- 🔑 Roles and permissions
+- 🛠 Admin tooling
+- 🔄 Continuous iteration
 
 ---
 
-## 🛠️ What I actually work with
+## ⚙ Infrastructure Stack
 
-**Backend & Infrastructure**
-- PHP (modular API architecture)
-- Node.js (services, hubs, workers)
-- Auth, sessions, tokens
-- Health checks, logging, backups
-
-**Frontend & Admin Panels**
-- Clean, functional admin UIs
-- Focus on clarity over flashy design
-- Internal tools that scale with complexity
-
-**Ops & Platform Thinking**
-- Cloudflare (DNS, tunnels, access)
-- Environment separation (dev / prod)
-- Backups & recovery (learned the hard way 😅)
-- Structure before features
+- ☁ Cloudflare (DNS, tunnels, access)
+- 🗂 Cloudflare R2
+- 🔁 CI-driven image releases
+- 🧪 Dev / prod separation
+- 📦 Automated provisioning
+- 🔐 SSH-controlled infrastructure
+- 🍓 ARM deployment pipelines
 
 ---
 
-## 👀 Looking for
+## 🧠 Philosophy
 
-- Serious collaborations
-- Platform-level freelance work
-- Feedback from people building real systems
-- Long-term opportunities around software products
-
-Not interested in quick scripts or throwaway projects.
+Own the infrastructure.  
+Validate before shipping.  
+Reproducibility over shortcuts.  
+Systems over scripts.
 
 ---
 
 ## 📫 Contact
 
-- Discord: **klobow**
-- Location: Denmark
-- Brand: https://klbgroups.com
-
-More documentation and open material coming soon.
+💬 Discord: klobow  
+🇩🇰 Location: Denmark  
+🌐 Brand: https://klbgroups.com
