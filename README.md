@@ -1,121 +1,80 @@
 # 👋 Noah Thomsen
 
-Founder - KLB Groups  
-🛠 Systems builder  
-🧠 Infrastructure focused  
-🇩🇰 Denmark  
+Founder - KLB Groups
+🛠 Systems builder
+🧠 Infrastructure focused
+🇩🇰 Denmark
 
 ---
 
 ## 🚀 What I Do
 
-I build structured operating environments and controlled deployment systems.
+I build practical systems and tools that solve real problems.
 
-Not trend-based SaaS.  
-Not frontend clones.  
-Real systems that boot, validate, and run.
+Not trend-based SaaS.
+Not frontend clones.
+Real tools that are fast to run, easy to use, and built for actual environments.
 
 ---
 
 ## 🏢 KLB Groups
 
-🌐 https://klbgroups.com  
+🌐 https://klbgroups.com
 
-Umbrella for long-term technical systems and infrastructure projects.
+KLB Groups is an umbrella for tools, systems, and infrastructure projects.
 
 Core principles:
-- 🧱 Own the stack
-- 🔒 Control the environment
-- ✅ Validate before release
-- 📦 Ship stable builds
-- 📈 Scale with structure
+
+* 🧱 Own the stack
+* 🔒 Control the environment
+* ⚡ Reduce friction
+* 📦 Ship usable tools
+* 📈 Build for real-world use
 
 ---
 
-## 🧩 Active Systems
+## 🧩 Active Projects
 
-### 🐾 ClawOS
+### 🧭 NetDeck
 
-ClawOS is a prebuilt ARM-based operating system designed to run OpenClaw with minimal setup.
+Self-hosted LAN dashboard for discovering and accessing devices.
 
-Instead of manually installing Linux, enabling SSH, installing Node, fixing permissions and services - you just flash and boot.
+* 🌐 Network scanning with custom ports
+* 🖥 Device overview with services
+* 🔗 Open web interfaces instantly
+* 🔐 SSH terminal directly in browser
+* ⚡ Fast, simple, and local-first
 
-ClawOS includes:
+Built for:
 
-- 🔐 SSH enabled on first boot
-- 👤 Preconfigured sudo-capable system user
-- 🟢 Node 22+ enforced at build time
-- 🤖 OpenClaw CLI pre-installed and validated
-- 🧪 Service validation before packaging
-- 🔁 CI-controlled image releases
-- 📀 Deterministic ARM image builds
-
-Target hardware:
-- 🍓 Raspberry Pi
-- 📡 ARM edge devices
-- 🖥 Self-hosted AI nodes
-
-Goal:
-
-Flash → Boot → Connect → Run OpenClaw
-
-No dependency chaos.  
-No broken first boot.  
-No manual setup frustration.
-
-ClawOS removes friction from running https://openclaw.ai/ on ARM hardware.
+* homelabs
+* quick troubleshooting
+* real-world network environments
 
 ---
 
-### 🏭 SDK Klargøring System
+## ⚙ Infrastructure Focus
 
-Structured internal operational workflow platform.
-
-- 🏗 Industry → Series → Model → Category → Jobs
-- 🔐 Role-based access
-- 🖼 Secure image handling
-- 🏢 Used in real company environment
-
-Operational system - not a demo.
-
----
-
-### 🎓 TeacherTool
-
-🌐 https://teachertool.dk  
-
-Platform for structured school management.
-
-- 👥 School-based structure
-- 🔑 Roles and permissions
-- 🛠 Admin tooling
-- 🔄 Continuous iteration
-
----
-
-## ⚙ Infrastructure Stack
-
-- ☁ Cloudflare (DNS, tunnels, access)
-- 🗂 Cloudflare R2
-- 🔁 CI-driven image releases
-- 🧪 Dev / prod separation
-- 📦 Automated provisioning
-- 🔐 SSH-controlled infrastructure
-- 🍓 ARM deployment pipelines
+* 🌐 Local-first systems
+* 🔐 SSH-based control
+* 📦 Self-hosted tools
+* ⚡ Fast setup, low friction
+* 🧠 Practical over theoretical
 
 ---
 
 ## 🧠 Philosophy
 
-Own the infrastructure.  
-Validate before shipping.  
-Reproducibility over shortcuts.  
-Systems over scripts.
+Build tools you actually want to use.
+
+Keep things simple.
+Remove friction.
+Ship working systems.
 
 ---
 
 ## 📫 Contact
 
-💬 Discord: klobow  
-🇩🇰 Location: Denmark  
-🌐 Brand: https://klbgroups.com
+💬 Discord: klobow
+🇩🇰 Location: Denmark
+🌐 https://klbgroups.com
